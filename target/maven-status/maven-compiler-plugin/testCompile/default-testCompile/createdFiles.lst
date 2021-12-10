@@ -1,0 +1,4 @@
+com\example\vodafoneTest\VodafoneTests.class
+com\example\vodafoneTest\pages\HomePage.class
+com\example\vodafoneTest\pages\PhonesPage.class
+com\example\vodafoneTest\pages\BasePage.class
